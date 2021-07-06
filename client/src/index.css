@@ -1,0 +1,53 @@
+/* 全局样式 */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* antd 样式覆盖 */
+.ant-layout-header {
+  background-color: #fff !important;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
+
+.fund-layout {
+  padding: 0 50px;
+  margin-top: 64px;
+}
+
+.fund-layout .fund-layout-background {
+  margin-top: 20px;
+  padding: 10px 24px;
+  min-height: 390px;
+  background: #fff;
+  border-radius: 10px;
+}
+
+.fund-layout-row {
+  margin-top: 0;
+  height: 1px;
+}
+
+.fund-fixed-title {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  background: #f0f2f5;
+  padding: 16px;
+}
+
+.fund-margin-top {
+  margin-top: 64px !important;
+}

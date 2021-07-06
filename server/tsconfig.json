@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "commonjs",
+    // "module": "commonjs",
+    // "module": "esnext",
+    "esModuleInterop": true, //设置es模块化导出commonjs模块化代码
+    // "outDir": "./adev/",
+  },
+  // "extends": "@tsconfig/node14/tsconfig.json",
+}
+// https://www.tslang.cn/docs/handbook/compiler-options.html

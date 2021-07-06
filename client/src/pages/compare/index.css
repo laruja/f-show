@@ -1,0 +1,14 @@
+.close {
+  vertical-align: top;
+  font-size: 10px;
+  margin-left: 3px;
+  padding: 3px;
+  border-radius: 10px;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.25);
+}
+
+.compare .ant-col {
+  padding-bottom: 16px;
+  text-align: center;
+}

@@ -1,0 +1,15 @@
+.compare-drawer-btn {
+  z-index: 2;
+  position: fixed;
+  left:0;
+  bottom: 0;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  color: #fff;
+  line-height: 50px;
+  border-radius: 25px;
+  background: linear-gradient(0deg, rgb(25 124 185), rgb(25 145 255) 71%);
+  box-shadow: 0 2px 4px 0 rgb(25 145 255);
+
+}

@@ -9,8 +9,7 @@ export const ADDRESS =
     ''
     : `http://localhost`;
 // : `http://localhost:6673/v1`;
-export const PYDIR =
-  '/Users/lrj/Desktop/实践项目/个人实践/fund-show/av4/schedule';
+export const PYDIR = '/Users/lrj/Desktop/mygithub/f-show/tasks';
 
 export default {
   serverPort: 8082,

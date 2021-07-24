@@ -8,7 +8,7 @@ export const ADDRESS =
     ''
     : `http://localhost`;
 // : `http://localhost:6673/v1`;
-export const PYDIR = '/Users/lrj/Desktop/mygithub/f-show/tasks';
+export const PYDIR = './tasks';
 
 export default {
   serverPort: 8082,

@@ -1,7 +1,7 @@
 import util
 # 日志目录
 global logfileDir
-logfileDir = '/Users/lrj/Desktop/实践项目/个人实践/fund-show/av4/schedule/log'
+logfileDir = './log'
 # 数据库配置
 global db
 db = {
